@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/dhwi96/github-readme-stats#gh-light-mode-only)
+![dhwi's github stats](https://github-readme-stats.vercel.app/api?username=dhwi96&show_icons=true)
+
 
 I'm interested in AI-based coding(e.g., Beyond VVC, NNVC, VCM)
 
