@@ -3,19 +3,19 @@
 
 I'm interested in AI-based coding(e.g., Beyond VVC, NNVC, VCM)
 
-# Video Codec
+### Video Codec
 AI based Video Codec, Video Coding for Machines
 
-# Int'l standardization
+### Int'l standardization
 ISO/IEC JTC1/SC29/WG3,4 
 
-# Computer Vision
+### Computer Vision
 Image processing, Object detection, Super-resolution, Video retargeting
 
-# Deep Learning Compression
+### Deep Learning Compression
 Pruning, Knowledge-distillation
 
-# Multimedia
+### Multimedia
 XR, Immersive data
 
 Masters degree in School of Computer Science and Engineering from Kyungpook National University, Daegu, Korea, in 2023. 
