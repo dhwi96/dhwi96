@@ -7,10 +7,10 @@ I'm interested in AI-based coding(e.g., Beyond VVC, NNVC, VCM)
 - AI based Video Codec, Video Coding for Machines
 
 #### [Int'l standardization]
-- ISO/IEC JTC 1/SC 29/WG3,4 
+- ISO/IEC JTC 1/SC 29 
 
 #### [Computer Vision] 
-- Image processing, Object detection, Super-resolution, Video retargeting
+- Image processing, Super-resolution, Video retargeting, 3D Gaussian Splatting
 
 #### [Deep Learning Compression]
 - Pruning, Knowledge-distillation
